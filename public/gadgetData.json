@@ -1,0 +1,201 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "UltraSlim Laptop Pro 15",
+        "product_image": "https://i.ibb.co.com/SwGTvyZW/ASUS-M3500-QC-DS71-Vivo-Book-Pro-15-OLED-Ultra-Slim-Laptop-Featured.jpg",
+        "category": "Computer",
+        "price": 1299.99,
+        "description": "High-performance laptop with a stunning 15-inch display and ultra-thin design.",
+        "specification": [
+            "Intel Core i7",
+            "16GB RAM",
+            "512GB SSD",
+            "15.6\" Retina Display",
+            "Backlit Keyboard"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 2,
+        "product_title": "MacBook Air 13",
+        "product_image": "https://i.ibb.co.com/k6P7ZrTd/hero-static-c9sislzzicq6-large.jpg",
+        "category": "Computer",
+        "price": 999.99,
+        "description": "Lightweight 13-inch ultrabook with all-day battery life and premium finish.",
+        "specification": [
+            "Intel Core i5",
+            "8GB RAM",
+            "256GB SSD",
+            "13.3\" Full HD Display",
+            "Fingerprint Reader"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 3,
+        "product_title": "Galaxy A12 Smartphone",
+        "product_image": "https://i.ibb.co.com/HTP2g4F8/samsung-galaxy-a12-sm-a125-2.jpg",
+        "category": "Phone",
+        "price": 899.99,
+        "description": "Flagship smartphone with powerful performance and a crystal-clear AMOLED display.",
+        "specification": [
+            "Snapdragon 8 Gen 2",
+            "8GB RAM",
+            "128GB Storage",
+            "6.7\" AMOLED",
+            "Triple Camera Setup"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 4,
+        "product_title": "NovaPhone Edge 10",
+        "product_image": "https://i.ibb.co.com/Q7Zzwj3Q/c12a4c2d-a0e8-4bb5-ad51-6d1e9d4f559c.webp",
+        "category": "Phone",
+        "price": 749.99,
+        "description": "Sleek design with powerful camera and fast 5G connectivity.",
+        "specification": [
+            "Octa-core Processor",
+            "6GB RAM",
+            "256GB Storage",
+            "6.5\" OLED",
+            "Dual Sim"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": 5,
+        "product_title": "FitWave Smart Watch X",
+        "product_image": "https://i.ibb.co.com/9H4P8Jb4/02b7306ab3c336c7f8514904c6d9a062-jpg-720x720q80-jpg.webp",
+        "category": "Smart Watches",
+        "price": 249.99,
+        "description": "Advanced smart watch with health tracking, GPS, and waterproof design.",
+        "specification": [
+            "Heart Rate Monitor",
+            "Sleep Tracking",
+            "GPS",
+            "Water Resistant",
+            "1.4\" AMOLED Display"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 6,
+        "product_title": "PulseBand Active 2",
+        "product_image": "https://i.ibb.co.com/VXHx7QD/41hw-Pimri9-L.jpg",
+        "category": "Smart Watches",
+        "price": 149.99,
+        "description": "Fitness-focused smartwatch with long battery life and activity tracking.",
+        "specification": [
+            "Step Counter",
+            "Calorie Tracker",
+            "Bluetooth 5.0",
+            "7-Day Battery",
+            "Sleep Monitor"
+        ],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": 7,
+        "product_title": "TurboCharge 65W Fast Charger",
+        "product_image": "https://i.ibb.co.com/gLGWsR1Q/baseus-gan3-pro-fast-charger-2cu-three-ports-65w-cn-plug-with-type-c-cable-1-768x768-72598651-76e1-4.webp",
+        "category": "Chargers",
+        "price": 89.99,
+        "description": "Fast charger compatible with a wide range of devices and USB-C support.",
+        "specification": [
+            "65W Output",
+            "USB-C & USB-A",
+            "Overcharge Protection",
+            "Compact Design"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": 8,
+        "product_title": "QuickCharge Duo Wall Adapter",
+        "product_image": "https://i.ibb.co.com/KpGQs6k8/510-FD3-Cs-Fi-L-AC-UF1000-1000-QL80.jpg",
+        "category": "Chargers",
+        "price": 104.99,
+        "description": "Dual-port wall charger with intelligent charging support.",
+        "specification": [
+            "30W USB-C",
+            "18W USB-A",
+            "Smart IC Technology",
+            "Overvoltage Protection"
+        ],
+        "availability": true,
+        "rating": 4.2
+    },
+    {
+        "product_id": 9,
+        "product_title": "PowerMax 20000mAh Power Bank",
+        "product_image": "https://i.ibb.co.com/wZQtZfFT/Maxwell-Power-Max-Powerbank-Black-white-20000mah-purple-green-black-white-10000mah-3.webp",
+        "category": "Power Bank",
+        "price": 59.99,
+        "description": "High-capacity power bank to keep all your devices charged on the go.",
+        "specification": [
+            "20000mAh Capacity",
+            "Dual USB Ports",
+            "LED Battery Indicator",
+            "Fast Charging"
+        ],
+        "availability": false,
+        "rating": 4.2
+    },
+    {
+        "product_id": 10,
+        "product_title": "MiniPower Slim 10000mAh",
+        "product_image": "https://i.ibb.co.com/VY98mbZr/7eba0410-06c7-4a3b-acfb-c31d0725ff7f-85295f8ba2eed3ffac82f1e52477ce92.webp",
+        "category": "Power Bank",
+        "price": 50.99,
+        "description": "Slim and lightweight power bank perfect for daily use.",
+        "specification": [
+            "10000mAh",
+            "USB-C & USB-A",
+            "Aluminum Body",
+            "Pass-Through Charging"
+        ],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": 11,
+        "product_title": "ZenTab Studio 2-in-1",
+        "product_image": "https://i.ibb.co.com/MDSGbTwN/Highlight-Surface-Studio-2-for-Business-1-VP2-859x540.jpg",
+        "category": "Computer",
+        "price": 849.99,
+        "description": "A powerful tablet-laptop hybrid with touch display and stylus support.",
+        "specification": [
+            "Intel Core i5",
+            "8GB RAM",
+            "256GB SSD",
+            "12.3\" Touchscreen",
+            "Windows 11"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": 12,
+        "product_title": "iConnect Smart Watch Mini",
+        "product_image": "https://i.ibb.co.com/nM501CHn/images.jpg",
+        "category": "Smart Watches",
+        "price": 119.99,
+        "description": "Compact smart watch with all essential features and sleek design.",
+        "specification": [
+            "Bluetooth",
+            "Heart Rate Sensor",
+            "Step Tracker",
+            "Water Resistant"
+        ],
+        "availability": true,
+        "rating": 4.1
+    }
+]
