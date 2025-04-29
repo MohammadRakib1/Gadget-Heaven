@@ -14,8 +14,8 @@ const Gadgets = () => {
     console.log(gadgets)
 
     return (
-        <div>
-            <h2>gadget: {gadgets.length}</h2>
+        <div className='my-36'>
+            <h2 className='text-center mb-12 font-bold text-5xl text-[#0B0B0B]'>Explore Cutting-Edge Gadgets</h2>
             <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8'>
                 {
                     gadgets.map(gadget => <Gadget gadget={gadget} key={gadget.product_id}></Gadget>)

@@ -6,13 +6,31 @@ import { FaRegHeart } from "react-icons/fa";
 const Navbar = () => {
 
     const links = <>
-        <li><NavLink to='/'>Home</NavLink></li>
-        <li><NavLink to='/statistics'>Statistics</NavLink></li>
-        <li><NavLink to='/deshboard'>Deshboard</NavLink></li>
+        <li>
+            <NavLink
+                to='/'
+                className={({ isActive }) => isActive ? 'font-bold text-white underline' : 'font-medium text-white'}>
+                Home
+            </NavLink>
+        </li>
+        <li>
+            <NavLink
+                to='/statistics'
+                className={({ isActive }) => isActive ? 'font-bold text-white underline' : 'font-medium text-white'}>
+                Statistics
+            </NavLink>
+        </li>
+        <li>
+            <NavLink
+                to='/deshboard'
+                className={({ isActive }) => isActive ? 'font-bold text-white underline' : 'font-medium text-white'}>
+                Deshboard
+            </NavLink>
+        </li>
     </>
 
     return (
-        <div className="navbar bg-base-100 max-w-7xl mx-auto">
+        <div className="navbar mt-4 max-w-7xl mx-auto bg-[#9538E2] rounded-t-xl px-8">
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -35,7 +53,7 @@ const Navbar = () => {
                         {links}
                     </ul>
                 </div>
-                <Link to='/' className="text-xl">Gadget Heaven</Link>
+                <Link to='/' className="text-xl font-bold text-white">Gadget Heaven</Link>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
@@ -43,8 +61,16 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end gap-2">
-                <Link className="border p-3 rounded-full"><AiOutlineShoppingCart></AiOutlineShoppingCart></Link>
-                <Link className="border p-3 rounded-full"><FaRegHeart></FaRegHeart></Link>
+                <NavLink
+                    to='/addToCard'
+                    className={({ isActive }) => isActive ? 'p-3 rounded-full bg-slate-100' : 'p-3 rounded-full bg-white'}>
+                    <AiOutlineShoppingCart></AiOutlineShoppingCart>
+                </NavLink>
+                <NavLink
+                    to='/wishlist'
+                    className={({ isActive }) => isActive ? 'p-3 rounded-full bg-slate-100' : 'p-3 rounded-full bg-white'}>
+                    <FaRegHeart></FaRegHeart>
+                </NavLink>
             </div>
         </div>
     );

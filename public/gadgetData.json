@@ -13,7 +13,7 @@
             "15.6\" Retina Display",
             "Backlit Keyboard"
         ],
-        "availability": true,
+        "availability": "In Stock",
         "rating": 4.7
     },
     {
@@ -30,7 +30,7 @@
             "13.3\" Full HD Display",
             "Fingerprint Reader"
         ],
-        "availability": true,
+        "availability": "In Stock",
         "rating": 4.5
     },
     {
@@ -47,7 +47,7 @@
             "6.7\" AMOLED",
             "Triple Camera Setup"
         ],
-        "availability": true,
+        "availability": "In Stock",
         "rating": 4.6
     },
     {
@@ -64,7 +64,7 @@
             "6.5\" OLED",
             "Dual Sim"
         ],
-        "availability": true,
+        "availability": "In Stock",
         "rating": 4.4
     },
     {
@@ -81,7 +81,7 @@
             "Water Resistant",
             "1.4\" AMOLED Display"
         ],
-        "availability": true,
+        "availability": "In Stock",
         "rating": 4.5
     },
     {
@@ -98,7 +98,7 @@
             "7-Day Battery",
             "Sleep Monitor"
         ],
-        "availability": true,
+        "availability": "In Stock",
         "rating": 4.3
     },
     {
@@ -114,7 +114,7 @@
             "Overcharge Protection",
             "Compact Design"
         ],
-        "availability": true,
+        "availability": "In Stock",
         "rating": 4.4
     },
     {
@@ -130,7 +130,7 @@
             "Smart IC Technology",
             "Overvoltage Protection"
         ],
-        "availability": true,
+        "availability": "In Stock",
         "rating": 4.2
     },
     {
@@ -146,7 +146,7 @@
             "LED Battery Indicator",
             "Fast Charging"
         ],
-        "availability": false,
+        "availability": "Not available",
         "rating": 4.2
     },
     {
@@ -162,7 +162,7 @@
             "Aluminum Body",
             "Pass-Through Charging"
         ],
-        "availability": true,
+        "availability": "In Stock",
         "rating": 4.3
     },
     {
@@ -179,7 +179,7 @@
             "12.3\" Touchscreen",
             "Windows 11"
         ],
-        "availability": true,
+        "availability": "In Stock",
         "rating": 4.4
     },
     {
@@ -195,7 +195,7 @@
             "Step Tracker",
             "Water Resistant"
         ],
-        "availability": true,
+        "availability": "In Stock",
         "rating": 4.1
     }
 ]
